@@ -152,11 +152,15 @@ Array              [1,2,3,4,5,6]
 //     }
 //     console.log(age)  // not accessed
 // }
-function arr() {
-    if (true) {
-        var y = 40;
-    }
-    console.log(y)  // accessed 
-}
-arr()
+// function arr() {
+//     if (true) {
+//         var y = 40;
+//     }
+//     console.log(y)  // accessed 
+// }
+// arr()
 
+// let str = "vinay kumar singh ";
+// var num = [1, 2, 3, 4, 5];
+// const obj = { name: "singh" }
+// console.log(str,num,obj)
